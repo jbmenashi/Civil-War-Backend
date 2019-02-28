@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  subject: one
+  day: one
+  lat: 1.5
+  long: 1.5
+
+two:
+  subject: two
+  day: two
+  lat: 1.5
+  long: 1.5
